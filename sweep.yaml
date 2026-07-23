@@ -1,6 +1,7 @@
 # wandb sweep config for question 
 
 method: bayes
+project: atri-fashion-mnist
 metric:
   name: val_accuracy
   goal: maximize
