@@ -2,6 +2,7 @@
 
 method: bayes
 project: atri-fashion-mnist
+program: train.py
 metric:
   name: val_accuracy
   goal: maximize
