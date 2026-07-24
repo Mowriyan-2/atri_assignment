@@ -6,11 +6,14 @@ different optimizers, and used wandb to track experiments.
 
 ## What's done so far
 
+## What's done so far
+
 - Q1: loading Fashion-MNIST and plotting one sample per class
 - Q2: feedforward neural network with configurable hidden layers
 - Q3: backpropagation + sgd, momentum, nesterov, rmsprop, adam, nadam
-
-Still working on the hyperparameter sweep and the rest of the questions.
+- Q4: wandb sweep across hyperparameters
+- Q5: best val accuracy plot across all sweep runs
+- Q6: sweep analysis + recommended config, in the wandb report
 
 ## Folder structure
 
